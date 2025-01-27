@@ -1,6 +1,8 @@
 # Kyra Fischer
-![alt text](Softball_Headshots_Kyra_Fischer.webp)
 [Kyra Fischer GitHub](https://github.com/kyrafish7/EE322)
+
+![alt text](Softball_Headshots_Kyra_Fischer.webp)
+
 > “Failure is only the opportunity to begin again, only this time more wisely.” - Henry Ford
 ## Stevens Institute of Technology 2026
 ### *Bachelor of Engineering Electrical Engineering*
