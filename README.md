@@ -1,8 +1,8 @@
 # Kyra Fischer
+![alt text](image.jpg)
 [Kyra Fischer GitHub](https://github.com/kyrafish7/EE322)
 > “Failure is only the opportunity to begin again, only this time more wisely.” - Henry Ford
 ## Stevens Institute of Technology 2026
-
 ### *Bachelor of Engineering Electrical Engineering*
 **Current Courses**
 </br>
@@ -11,12 +11,21 @@
 3. Smart Grid
 4. Engineering Design VI
 5. Project Management & Organizational Design
-
+---
 **Extracurriculars** 
 - Society of Women Engineers
 - Softball 
 - IEEE (Eta Kappa Nu)
-
-![alt text](image.jpg)
+---
+**Experience**
+- ENGR 245 TA
+  </br>
+  `Fall 2024`
+- College Student Tech Sr at Lockheed Martin
+  </br>
+  `Summer 2024 - Created GUI in MATLAB`
+- Co-op Technical at Lockheed Martin
+  </br>
+  `Summer 2023 - Ran latency testing using MATLAB/Excel`
 
 
