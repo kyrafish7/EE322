@@ -5,5 +5,5 @@
 ![image](Images/halfadderGTKWAVE.png)
 
 ## D Flip-Flop
-![image](Images/LAB1 - DFlipFlopCODE.png)
-![image](Images/LAB1 - DFlipFlopGRAPH.png)
+![image](Images/LAB1DFlipFlopCODE.png)
+![image](Images/LAB1DFlipFlopGRAPH.png)
