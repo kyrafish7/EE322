@@ -54,3 +54,30 @@ This command deletes file2
 This command clears all contents from the terminal screen
 ![image](Images/Lab2clear.png)
 
+## ifconfig
+This command displays a comprehensive list of all network interfaces on a system, displaying relevant details such as their respective IP addresses, MAC addresses, network masks, and other associated configuration information
+
+This is the error I was getting I tried to troubleshoot but couldn't get the command to work :
+![image](Images/Lab2ifconfig.png)
+
+This is what I should've gotten if the command ran properly :
+![image](Images/Lab2ifconfig1.png)
+![image](Images/Lab2ifconfig2.png)
+![image](Images/Lab2ifconfig3.png)
+
+## ping localhost
+![image](Images/Lab2localhost.png)
+![image](Images/Lab2localhost1.png)
+
+## netstat
+This command displays a comprehensive list of all network interfaces on a system, displaying relevant details such as their respective IP addresses, MAC addresses, network masks, and other associated configuration information
+
+This is the error I was getting I tried to troubleshoot but couldn't get the command to work :
+![image](Images/Lab2netstat.png)
+
+This is what I should've gotten if the command ran properly :
+![image](Images/Lab2netstat1.png)
+![image](Images/Lab2netstat2.png)
+![image](Images/Lab2netstat3.png)
+
+
