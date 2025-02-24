@@ -70,14 +70,17 @@ This is what I should've gotten if the command ran properly :
 ![image](Images/Lab2localhost1.png)
 
 ## netstat
-This command displays a comprehensive list of all network interfaces on a system, displaying relevant details such as their respective IP addresses, MAC addresses, network masks, and other associated configuration information
+This command provides information about network connections, routing tables, interface statistics, and more. It helps in monitoring network activity and diagnosing network issues on a system.
 
 This is the error I was getting I tried to troubleshoot but couldn't get the command to work :
 ![image](Images/Lab2netstat.png)
 
 This is what I should've gotten if the command ran properly :
+
 ![image](Images/Lab2netstat1.png)
 ![image](Images/Lab2netstat2.png)
 ![image](Images/Lab2netstat3.png)
+![image](Images/Lab2netstat4.png)
+
 
 
