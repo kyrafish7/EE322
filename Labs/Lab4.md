@@ -45,7 +45,7 @@
 ![image](Images/Lab4indexhtml.png)
 
 ### `cp ~/iot/lesson4/static/favicon.ico .`, `mkdir myapp`, `cd myapp`, `cp ~/iot/lesson4/static/*css .`, `cp ~/iot/lesson4/static/*js .`
-#### This allowed me to copy static files from the GitHub repository. I was having errors when running these commands but it should have allowed me to sopy these files
+#### This allowed me to copy static files from the GitHub repository. I was having errors when running these commands but it should have allowed me to copy these files
 ![image](Images/Lab4issueswithstaticfiles.png)
 
 ### `python3 manage.py makemigrations myapp`, `python3 manage.py migrate` 
