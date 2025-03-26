@@ -59,4 +59,43 @@
 ### The app is shown below:
 ![image](Images/Lab4results.png)
 
+## Django REST project
+### To start this part of the lab I started a Django project titled stevens by executing
+#### `django-admin startproject stevens` and `python3 manage.py startapp myapp`
+![image](Images/Lab4_1.png)
+![image](Images/Lab4_2.png)
+
+### Then I edited settings.py in /mycpu/myapp to the following :
+![image](Images/Lab4Settings1.png)
+
+![image](Images/Lab4Settings2.png)
+
+### Then I copied urls.py, admin.py, models.py, views.py and serializers.py to /mycpu/mycpu
+### by running the following commands : 
+#### - `cp ~/iot/lesson4/mycpu/admin.py .`
+#### - `cp ~/iot/lesson4/mycpu/models.py .`
+#### - `cp ~/iot/lesson4/mycpu/views.py .`
+#### - `cp ~/iot/lesson4/mycpu/serializers.py .`
+
+### Once those were copied I changed my passord in views.py by running `nano views.py` 
+
+### Then I created a few new files and copied index.html by running `cp ~/iot/lesson4/mycpu/index.html .`
+![image](Images/Lab4_3.png)
+
+### Next I copied the static files by executing 1cp ~/iot/lesson4/static/*css .` and `cp ~/iot/lesson4/static/*js .`
+![image](Images/Lab4_4.png)
+
+### Then I changed switched back to mycpu and copied controller.py by running `cp ~/iot/lesson4/mycpu/controller.py`. Then changed the password by using `nano controller.py.`. Additionally I also installed psutil by running `pip3 install -U psutil`. 
+![image](Images/Lab4_5.png)
+
+### Then I ran `python3 manage.py makemigrations myapp`, `python3 manage.py migrate` and `python3 manage.py createsuperuser`. This was giving me some issues I wasn't able to open the actual app but this is what it should have looked like.
+![image](Images/Lab4_6.png)
+![image](Images/Lab4_7.png)
+![image](Images/Lab4_10.png)
+
+## Running Flask Server
+### I had previously installed Flask therefore all I had to run was `cd ~/iot/lesson4` and `python3 hello_world.py`
+![image](Images/Lab4_8.png)
+### Once running I went to the server at http://127.0.0.1:5000/.
+![image](Images/Lab4_9.png)
 
