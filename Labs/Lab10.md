@@ -1,8 +1,8 @@
 # Lab 9 - Blockchain
 
 ## hash_value.py
-### First step of this lab was to run hash_value.py twice
-### First running `cat hash_value.py` which showed the file contents before running the program. 
+### First part of this lab was to run hash_value.py twice
+### First I ran `cat hash_value.py` which showed the file contents before running the program. 
 ![image](Images/Lab10_1.png)
 
 ### This program was used to generate hash values for several different variables. It can be seen that hash for 1, 1.0 and 3.14 stayed the same through both runs the others changed for each run.
